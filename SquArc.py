@@ -1,6 +1,5 @@
 import math
 from manim import *
-import numpy as np
 
 
 class SquArc(Scene):
